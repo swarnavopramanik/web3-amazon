@@ -1,4 +1,6 @@
 
+<h1 align="center"> Web3 eCommerce 🪙 </h1>
+
 <div align="center">
       <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
       <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
@@ -22,6 +24,10 @@
 ![Timechain-Summer-of-Code-jpg](https://github.com/swarnavopramanik/MoneyButton/assets/105142693/2bd6090b-6e42-4891-a1e5-889427340a70)
 
 
+## 📷 Screenshots 
+![Screenshot (601)](https://github.com/swarnavopramanik/web3-amazon/assets/105142693/c61f976a-e60e-42aa-a4cb-1f5706ab706a)
+![Screenshot 2023-07-05 134636](https://github.com/swarnavopramanik/web3-amazon/assets/105142693/3129ac48-56f1-4209-8c93-3bbe55457e77)
+![Screenshot (600)](https://github.com/swarnavopramanik/web3-amazon/assets/105142693/863f2fc4-a1f8-490b-8fdb-73f24f9e5382)
 
 # Getting Started with Create React App
 
